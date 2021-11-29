@@ -1,0 +1,180 @@
+¿Cuáles son los niveles de certificación en Azure?
+Fundamentals, Associate, Expert y Specialty.
+----------------------------------------------------
+2.
+Son los modelos de servicio básicos en la nube:
+Infrastructure as a Service (IaaS), Platform as a Service (PaaS) y Software as a Service (SaaS).
+----------------------------------------------------
+3.
+¿En qué escenario es más conveniente tener una nube como IaaS (Infrastructure as a Service)?
+Cuando no queremos invertir en hardware físico pero queremos hacernos responsables de su administración.
+----------------------------------------------------
+4.
+¿En qué escenario es más conveniente tener una nube como SaaS (Software as a Service)?
+Cuando queremos utilizar una solución ya creada en la nube como usuarios, sin tener que desarrollar el producto.
+----------------------------------------------------
+5.
+¿Qué es la nube híbrida?
+Una combinación de la nube pública y privada, contando con una parte on-premise y otra provista por un proveedor de servicios en la nube.
+----------------------------------------------------
+6.
+¿Cuáles son los componentes de una cuenta de Azure?
+Cuenta/grupo de suscripción, suscripción, grupo de recursos y recursos.
+----------------------------------------------------
+7.
+Es una instancia de los recursos disponibles en Azure.
+Recursos
+----------------------------------------------------
+8.
+Agrupación de cuentas de usuario y recursos creados por una cuenta de Azure.
+Suscripción
+----------------------------------------------------
+9.
+Los recursos pueden formar parte de varios grupos de recursos. Esto es:
+Falso
+----------------------------------------------------
+10.
+¿Qué sucede al eliminarse un grupo de recursos?
+Se eliminan todos los recursos contenidos.
+----------------------------------------------------
+11.
+¿Qué es una "región" en Azure?
+Una área geográfica con por lo menos un data center.
+----------------------------------------------------
+12.
+¿Qué es una zona de disponibilidad?
+Dos o más data centers independientes en una misma región para brindar redundancia de servicios en casos de emergencia.
+----------------------------------------------------
+13.
+¿Qué tipos de datos admiten los servicios de almacenamiento en Azure?
+Estructurados, semi-estructurados y no estructurados.
+----------------------------------------------------
+14.
+Este servicio de Azure se utiliza para analizar volúmenes de datos que pueden estar sin procesar, refinados o seleccionados:
+Azure Synapse Analytics.
+----------------------------------------------------
+15.
+¿Qué es un contenedor?
+Ambientes aislados para la virtualización del sistema operativo, algunas de sus funciones o procesos.
+----------------------------------------------------
+16.
+Una contenedor es un ejemplo de:
+PaaS (Platform as a Service).
+----------------------------------------------------
+17.
+¿Qué tipo de servicios podemos alojar en Azure Apps?
+Aplicaciones web, API y backend de apps móviles.
+----------------------------------------------------
+18.
+¿En que escenarios es recomendable Azure Blob Storage?
+Para almacenar imágenes, videos, backups o cualquier dato no estructurado.
+----------------------------------------------------
+19.
+¿Cuáles son los niveles de acceso a los archivos almacenados en Azure?
+Frecuente, esporádico y de archivo.
+----------------------------------------------------
+20.
+¿Cuándo es conveniente utilizar Azure Machine Learning?
+Cuando creamos nuestros propios modelos de ML y buscamos tener control del proceso de entrenamiento de algoritmos.
+----------------------------------------------------
+21.
+Nos brinda de espacios para albergar código fuente de manera centralizada y colaborativa.
+Azure Repos.
+----------------------------------------------------
+22.
+Este servicio nos permite evaluar recursos y tener recomendaciones sobre cómo podemos optimizar nuestras instancias en Azure.
+Azure Advisor.
+----------------------------------------------------
+23.
+¿A qué servicio debemos recurrir para saber el estado de los servicios, regiones y recursos de Azure?
+Azure Service Health.
+----------------------------------------------------
+24.
+Azure Security Center puede detectar y bloquear malware mediante el uso de Machine Learning. Esto es:
+Verdadero
+----------------------------------------------------
+25.
+¿Qué representa una puntuación de seguridad alta en Azure Security Center?
+Nada, es una métrica de seguridad.
+Que nuestro entorno se encuentra protegido.
+----------------------------------------------------
+26.
+¿Qué servicio de Azure nos permite almacenar información confidencial como claves, certificados y respaldos?
+Azure Key Vault.
+----------------------------------------------------
+27.
+¿Qué es "cumplimiento"/"compliance"?
+Cumplir con una ley, estándar, conjunto de normas o requerimientos.
+----------------------------------------------------
+29.
+La región donde se encuentren nuestros recursos de Azure afectan a sus costos. Esto es:
+Verdadero
+----------------------------------------------------
+30.
+¿Qué es el Acuerdo de Nivel de Servicio (Service Level Agreement)?
+El porcentaje de tiempo que garantiza Microsoft que un servicio estará disponible y la compensación en créditos que ofrecerá en caso de no cumplrlo.
+----------------------------------------------------
+2.
+Es un ejemplo del modelo de consumo CapEx (capital expenditure, gastos de capital):
+Comprar servidores físicos, instalarlos y adecuar el espacio para los mismos.
+----------------------------------------------------
+3.
+Supongamos que tienes una máquina virtual la cual comienza a ser lenta y decides escalarla verticalmente su capacidad ¿qué acción tomarías?
+Aumentar su memoria RAM o CPU para agilizar sus procesos.
+----------------------------------------------------
+5.
+¿En qué escenario es más conveniente tener una nube en local (on-premise)?
+Cuando queremos tener un control al 100% del hardware, podemos permitirnos los costos involucrados y deseamos hacernos cargo de su administración.
+
+----------------------------------------------------
+7. 
+¿En qué escenario es más conveniente tener una nube como PaaS (Platform as a Service)?
+Cuando queremos una configuración ágil enfocada al desarrollo y despliegue de aplicaciones.
+----------------------------------------------------
+9.
+¿Cómo funciona Azure de forma general?
+Virtualizando computadoras y sus componentes principales en servidores que son orquestados dentro de un data center, recibiendo instrucciones del usuario.
+----------------------------------------------------
+10.
+¿Cuáles son los tipos de límites que puede tener una suscripción en Azure?
+Facturación mensual y control de acceso a recursos.
+----------------------------------------------------
+16.
+¿Con qué herramienta puedo crear múltiples máquinas virtuales a la vez?
+Azure VMs.
+REPASAR CLASE
+----------------------------------------------------
+18.
+¿En qué escenario es mejor utilizar máquinas virtuales?
+Cuando buscamos tener control sobre la capacidad del hardware en la que corren nuestras aplicaciones. Como lo puede ser el tamaño de memoria o espacio en disco.
+----------------------------------------------------
+19.
+¿Cuál es el modelo de pago de Azure Functions?
+Pago solo por funciones ejecutadas.
+----------------------------------------------------
+22.
+Azure cuenta con servicios para crear redes virtuales privadas (VPN). Esto es:
+
+Verdadero
+----------------------------------------------------
+24.
+¿Cuándo es conveniente utilizar Azure Cognitive Services?
+Cuando deseamos utilizar servicios cognitivos de imagen, voz o video para que la inteligencia artificial los procese como entradas de datos.
+----------------------------------------------------
+25.
+Nos provee de herramientas para automatizar pruebas en nuestros flujos antes de lanzar software.
+Azure Test Plans.
+----------------------------------------------------
+27.
+¿Qué tipo de herramientas nos ofrece Azure para administrar nuestro entorno?
+Aplicaciones móviles y aplicaciones web.
+REPASAR CLASE
+----------------------------------------------------
+28.
+Azure Functions es únicamente compatible con .NET. Esto es:
+
+Falso
+----------------------------------------------------
+¿Cómo se calcula el porcentaje de acuerdo de nivel de servicio compuesto?
+Multiplicando el nivel de acuerdo de servicio de un recurso por el número de sus instancias, se repite el proceso con los demás recursos y se suman los resultados totales.
+----------------------------------------------------
