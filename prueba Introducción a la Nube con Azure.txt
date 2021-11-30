@@ -178,3 +178,5 @@ Falso
 ¿Cómo se calcula el porcentaje de acuerdo de nivel de servicio compuesto?
 Multiplicando el nivel de acuerdo de servicio de un recurso por el número de sus instancias, se repite el proceso con los demás recursos y se suman los resultados totales.
 ----------------------------------------------------
+
+asas
